@@ -2,6 +2,10 @@
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/b3954da8-43b5-4394-a233-28113d57676c/mini.png)](https://insight.sensiolabs.com/projects/b3954da8-43b5-4394-a233-28113d57676c)
 
+Add new eZStudio Form Field named *Section* to organize Form Fields.
+
+This new Field is not really a Form Field, just a Form section delimiter.
+
 ## Installation
 
 ### Get the bundle using composer
