@@ -1,0 +1,9 @@
+fields:
+    section:
+        identifier: section
+        displayName: Section
+        views:
+            basic:
+                name: Form Section
+                thumbnail: /bundles/smileezeesectionformfield/images/thumbnails/section/basic.svg
+                template: SmileEzEESectionFormFieldBundle:fields:section/basic.html.twig

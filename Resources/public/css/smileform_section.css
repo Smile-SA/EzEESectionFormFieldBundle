@@ -1,0 +1,16 @@
+.smileform-section .ezform-label {
+    cursor: pointer;
+}
+
+.smileform-section {
+    background: #2B84B1;
+    color: #fff;
+    border-radius: .25rem .25rem 0 0;
+    transition: background .3s cubic-bezier(.25,.8,.25,1);
+    padding: .25rem 0 .25rem .75rem;
+    display: flex;
+    height: 3rem;
+    line-height: 2.5rem;
+    cursor: pointer;
+    margin: .25rem 0;
+}
