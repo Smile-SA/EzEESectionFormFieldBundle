@@ -1,6 +1,6 @@
 # SmileEzEESectionFormFieldBundle
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/b3954da8-43b5-4394-a233-28113d57676c/mini.png)](https://insight.sensiolabs.com/projects/b3954da8-43b5-4394-a233-28113d57676c)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/0c0978e3-5beb-4ab6-924b-57ee68fa2616/mini.png)](https://insight.sensiolabs.com/projects/0c0978e3-5beb-4ab6-924b-57ee68fa2616)
 
 Add new eZStudio Form Field named *Section* to organize Form Fields.
 
